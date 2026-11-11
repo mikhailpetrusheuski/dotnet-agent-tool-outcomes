@@ -6,6 +6,8 @@ A small .NET 11 sample that models an agent tool's result as a C# 15 union, so t
 [![.NET 11](https://img.shields.io/badge/.NET-11-512BD4)](https://dotnet.microsoft.com/)
 [![Stars](https://img.shields.io/github/stars/mikhailpetrusheuski/dotnet-agent-tool-outcomes?style=social)](https://github.com/mikhailpetrusheuski/dotnet-agent-tool-outcomes/stargazers)
 
+Read the write-up: [.NET 11 Makes Agent Tool Outcomes Compiler-Checked](https://medium.com/@mikhail.petrusheuski/net-11-makes-agent-tool-outcomes-compiler-checked-6bbdd48b4995).
+
 ## Outcomes
 
 | Case | Next step | HTTP status |
